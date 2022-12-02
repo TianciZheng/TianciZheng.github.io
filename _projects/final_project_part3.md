@@ -19,8 +19,8 @@ custom_js:
 ## 1. Introduction
 "How to succeed" is always the most frequent question every company asks. And we want to help companies answer this question by learning from successful ones. So, we decided to utilize Inc.5000 in 2019, which listed the 5000 Fastest Growing Private Companies in the United States at that year, to figure out the hidden stories based on their data. We hope that our analysis could help people better understand the key factors as well as the common elements a successful company possesses.
 
-The data file comes from [INC 5000 - 2019](https://data.world/aurielle/inc-5000-2019) on data.world which is orignially from Inc.com.
-We performed a series of data processing and cleaning that can be found in our "Analysis" Jupyter Notebook.
+The [data file](https://raw.githubusercontent.com/TianciZheng/TianciZheng.github.io/main/cleaned_inc5000-2019.csv) comes from [INC 5000 - 2019](https://data.world/aurielle/inc-5000-2019) on data.world which is orignially from Inc.com.
+We performed a series of data processing and cleaning that can be found in our [Analysis](https://github.com/TianciZheng/TianciZheng.github.io/blob/main/python_notebooks/finalprojectpart3_Analysis_Group%2066.ipynb) Jupyter Notebook.
 
 ## 2. One Central Interactive Dashboard Visualization
 
@@ -89,6 +89,6 @@ To conclude, our project utilizes the dashboard to show the distribution of diff
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/TianciZheng/TianciZheng.github.io/blob/main/python_notebooks/finalprojectpart3_Analysis_Group 66.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/TianciZheng/TianciZheng.github.io/blob/main/python_notebooks/finalprojectpart3_Analysis_Group%2066.ipynb" text="The Analysis" %}
 </div>
 
