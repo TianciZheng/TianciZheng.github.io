@@ -67,18 +67,17 @@ Based on the graph, we can tell that the Health, Energy, and IT Services industr
 ### 3.2 Average Employee Count
 
 Another aspect we worked on was the employee. 
-We have seen much news regarding layoffs in famous companies these days, and we think it is necessary to help people learn from fast-growing companies about their strategies in employment. So, 
-We created another [line chart](https://raw.githubusercontent.com/TianciZheng/TianciZheng.github.io/main/assets/json/contextual_2.json) (Fig 4) to show the average number of employees for companies founded at different times. 
-
+We have seen much news regarding layoffs in famous companies these days, and we think it is necessary to help people learn from fast-growing companies about their strategies in employment. Analyzing the trend of employee count can achieve the purpose.
+So, We created another [line chart](https://raw.githubusercontent.com/TianciZheng/TianciZheng.github.io/main/assets/json/contextual_2.json) (Fig 4) to show the average number of employees for companies founded at different times. 
+According to the above figure, there is a declining trend which is reasonable as newly established companies tend to have fewer employers. An interesting finding is that most companies have a total number of employees between 100 and 400. We believe this range reflects the number of employees a healthy growing company should maintain. Therefore, people can rely on this interval to judge if they need to control the employee size or continue hiring for faster development.
 
 
 <center><vegachart schema-url="{{ site.baseurl }}/assets/json/contextual_2.json" style="width: 100%"></vegachart></center>
 <center>Fig 4: Average Employee Amount for Companies founded within 30 years </center>
 
-According to the above figure, we 
 
 ## 4.Conclusion
-Test
+To conclude, our project utilizes the dashboard to show the distribution of different industries in different states and their financial performances. We also plotted gross revenue and employment trend, aiming to give better insights into the most successful growth companies in the United States. We hope our work can benefit entrepreneurs who would like to learn from others and better develop their companies.
 
 ## 5. Citation
 1. Anand, G. (2017, January 10). INC. 5000 Companies. Tableau Public. https://public.tableau.com/app/profile/gautam1546/viz/INC_5000Companies/INC_5000CompaniesandRevenue
@@ -90,6 +89,6 @@ Test
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/TianciZheng/TianciZheng.github.io/blob/main/python_notebooks/finalprojectpart3_Analysis_Group 66.ipynb" text="The Analysis" %}
 </div>
 
