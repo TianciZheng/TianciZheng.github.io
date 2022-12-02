@@ -1,8 +1,8 @@
 ---
-name: Take2 - Vega-lite plots
+name: Final Project Part3 - Group 66
 tools: [Python, HTML, vega-lite, Jekyll]
-image: assets/pngs/cars.png
-description: This is a "showcase" project that follows Week11
+image: assets/pngs/Inc5000.png
+description: This is the  part 3 of the IS 445 final project created by Group 66
 custom_js:
   - vega.min
   - vega-lite.min
@@ -22,7 +22,7 @@ We can use a vegachart HTML tag like so:
 <vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
 ```
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/final_dashboard_1.json" style="width: 100%"></vegachart>
 
 In theory, you can also use [Jekyll hooks](https://jekyllrb.com/docs/plugins/hooks/) to do it, but I haven't figured out a way that looks nice yet.
 
