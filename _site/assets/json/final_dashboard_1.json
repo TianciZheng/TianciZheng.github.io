@@ -1,5 +1,4 @@
-{"title": "Central Interactive Visualization",
-  "config": {"view": {"continuousWidth": 500, "continuousHeight": 450}},
+{"config": {"view": {"continuousWidth": 500, "continuousHeight": 450}},
   "hconcat": [
     {
       "mark": "rect",
@@ -18,7 +17,7 @@
       "mark": "bar",
       "encoding": {
         "x": {
-          "axis": {"title": "yrs_on_list"},
+          "axis": {"title": "years_on_list"},
           "sort": "-y",
           "field": "yrs_on_list",
           "type": "ordinal"
@@ -26,7 +25,7 @@
         "y": {
           "aggregate": "average",
           "field": "revenue_in_million",
-          "axis": {"title": "years_on_list"},
+          "axis": {"title": "Average Revenue in Million"},
           "type": "quantitative"
         }
       },
