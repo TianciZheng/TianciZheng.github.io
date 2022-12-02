@@ -1,7 +1,7 @@
 ---
 name: Final Project Part3 - Group 66
 tools: [Python, HTML, vega-lite, Jekyll]
-image: assets/pngs/Inc5000.png
+image: assets/pngs/inc5000.png
 description: This is the  part 3 of the IS 445 final project created by Group 66
 custom_js:
   - vega.min
