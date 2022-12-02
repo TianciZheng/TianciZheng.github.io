@@ -7,14 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
-possibly a corgi, possibly not, but I believe not.  Either way there are really neat things I am up to!
+Hi I am Tianci Zheng,<br>
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+- MSIM at UIUC
+- Incoming Data Analyst at M.S.Hall & Associates
 
-<div class="row">
-{% include about/timeline.html %}
-</div>

@@ -6,8 +6,7 @@
 
 ### Site Settings ###
 title               : Tianci Zheng
-description         : >-
-                      I may or may not be a corgi.
+description         : Welcome
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          : jnaiman               # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -34,13 +33,13 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
-  image             : https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg
+  name              : Tianci Zheng
+  image             : https://github.com/TianciZheng/TianciZheng.github.io/blob/main/viewbeach.jpg?raw=true
 # behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : tianci2@illinois.edu
 # facebook          : your_username
-  github            : jnaiman # JPN
+  github            : TianciZheng # JPN
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
