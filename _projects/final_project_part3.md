@@ -25,10 +25,10 @@ We performed a series of data processing and cleaning that can be found in our "
 ## 2. One Central Interactive Dashboard Visualization
 
 
-Firstly, we would like to create an interactive dashboard (Fig 1) that reveals precious geographic and monetary information regarding those fastest 5000 companies.
+Firstly, we would like to create an [interactive dashboard](https://raw.githubusercontent.com/TianciZheng/TianciZheng.github.io/main/assets/json/centraldashboard.json) (Fig 1) that reveals precious geographic and monetary information regarding those fastest 5000 companies.
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/centraldashboard.json" style="width: 100%"></vegachart>
-<center>Fig 1: Central Interactive Dashboard</center>
+<center>Fig 1: Central Interactive Dashboard </center>
 <br/>
 
 There are two components in our dashboard. The left part is a heatmap visualization that plots out the company industries and the states they reside. The different color shows the different amount of companies in each combination. 
@@ -45,26 +45,37 @@ In addition to the dashboard, we also found other columns in the dataset valuabl
 
 ### 3.1 Total revenue by industry
 
-One direction we focused on was revenue. By calculating the total revenue based on the industry, we could find the top sectors that make the most money. 
+One direction we focused on was revenue. Revenue is always an important measure to a company and can reflect many facets, such as operations and financial status. We created a [horizontal bar](https://raw.githubusercontent.com/TianciZheng/TianciZheng.github.io/main/assets/json/contextual_1.json)(Fig 2) chart by calculating the total revenue based on the industry to find the top sectors that make the most money. 
 As shown in Fig 2, we can see that Health, Consumer Products & Services, and Construction were the industries with the highest revenue in 2019. And the Health section even made above 38,000 million, which was twice as much as second place. The graph shows us which industries are promising and which ones are not. 
 It provides a very good reference for people and entrepreneurs to determine the future direction of their companies.
 
 
-In this section, we found a treemap visualization created by Gautam Anand<sup>(1)<sup> and 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/contextual_1.json" style="width: 100%"></vegachart>
 <center>Fig 2: Total Revenue by Industry in 2019</center>
 <br/>
+
+Meanwhile, we found a treemap visualization (Fig 3)，created by Gautam Anand <sup>(1)</sup>，that 
+also represents industry segments and their revenue. The chart's data are from Inc 5000 list in 2014. 
+Based on the graph, we can tell that the Health, Energy, and IT Services industries earned the most in 2014, and their gross revenue was around 20,000 million. Other remarkable industries include Business Products & Services, Financial Services, Construction, and Real Estate. Additionally, we can discover the industry and economic trends and changes in the last few years by comparing Fig 3 with Fig 2. Health is always the leading role among all other sectors, and it outperformed others significantly in 2019. IT and Energy are seriously declining as they went from the top five to below the tenth. Overall, the growth of many industries is not stable, and people should be cautious when determining the industry. 
 
 ![](/assets/pngs/industryandrevenue.png)
 <center>Fig 3: Total Revenue by Industry in 2014</center>
 <br/>
 
 
+### 3.2 Average Employee Count
 
-### 3.2 Average Employee
+Another aspect we worked on was the employee. 
+We have seen much news regarding layoffs in famous companies these days, and we think it is necessary to help people learn from fast-growing companies about their strategies in employment. So, 
+We created another [line chart](https://raw.githubusercontent.com/TianciZheng/TianciZheng.github.io/main/assets/json/contextual_2.json) (Fig 4) to show the average number of employees for companies founded at different times. 
+
+
+
 <center><vegachart schema-url="{{ site.baseurl }}/assets/json/contextual_2.json" style="width: 100%"></vegachart></center>
 <center>Fig 4: Average Employee Amount for Companies founded within 30 years </center>
+
+According to the above figure, we 
 
 ## 4.Conclusion
 Test
