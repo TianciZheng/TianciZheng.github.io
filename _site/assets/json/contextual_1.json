@@ -3,7 +3,7 @@
     "url": "https://raw.githubusercontent.com/TianciZheng/TianciZheng.github.io/main/cleaned_inc5000-2019.csv"
   },
   "mark": "bar",
-  "height": "300",
+  "height": "600",
   "width": "500",
   "title": "Total revenue by industry in 2019",
   "encoding": {

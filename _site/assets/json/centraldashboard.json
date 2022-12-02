@@ -5,7 +5,7 @@
       "mark": "rect",
       "encoding": {
         "color": {"aggregate": "count", "type": "quantitative"},
-        "x": {"field": "industry", "type": "ordinal","title": "Industry"},
+        "x": {"field": "industry", "type": "ordinal", "title": "Industry"},
         "y": {"field": "state", "type": "ordinal", "title": "State"}
       },
       "height": 600,
