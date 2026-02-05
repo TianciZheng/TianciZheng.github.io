@@ -13,7 +13,7 @@ custom_js:
 # <center> The Stories Behind The Fastest 5000 Growing Companies in The U.S.</center>
 <br/>
 
-#### <center> Group 66 - Tianci Zheng, Yiqing Li </center>
+#### <center> Group 66 - Tianci Zheng </center>
 <br/>
 
 ## 1. Introduction
