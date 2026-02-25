@@ -15,3 +15,14 @@ I am Tianci (Dylan) Zheng, a data analyst focused on healthcare reimbursement, f
 
 I work across Python, SQL, Tableau, and Excel to automate reporting workflows, improve audit readiness, and deliver reliable insights from complex multi-source datasets.
 
+## Skills
+
+<div class="row">
+  {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+  {% include about/skills.html title="Tools and Platforms" source=site.data.other-skills %}
+</div>
+
+## Timeline
+
+{% include about/timeline.html %}
+
