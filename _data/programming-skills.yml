@@ -1,14 +1,14 @@
-- name: HTML5/CSS3
+- name: Python (Pandas, NumPy, Matplotlib)
   percentage: 90
-  level: Expert
-  color: danger
+  level: Advanced
+  color: primary
 
-- name: Go
-  percentage: 80
-  level: Medium
-  color:
+- name: SQL (CTEs, Window Functions, Joins)
+  percentage: 88
+  level: Advanced
+  color: success
 
-- name: Python
-  percentage: 70
-  level: Beginner
-  color: secondary
+- name: R / VBA / PHP
+  percentage: 72
+  level: Intermediate
+  color: info

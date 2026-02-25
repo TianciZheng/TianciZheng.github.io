@@ -7,8 +7,11 @@ weight: 3
 
 # **About Me**
 
-Hi I am Tianci Zheng,<br>
+I am Tianci (Dylan) Zheng, a data analyst focused on healthcare reimbursement, financial reporting, and decision support.
 
-- MSIM at UIUC
-- Incoming Data Analyst at M.S.Hall & Associates
+- Senior Data Analyst at M.S. Hall and Associates (Remote)
+- M.S. in Information Management, University of Illinois Urbana-Champaign
+- B.S. in Business, University of Minnesota Twin Cities
+
+I work across Python, SQL, Tableau, and Excel to automate reporting workflows, improve audit readiness, and deliver reliable insights from complex multi-source datasets.
 

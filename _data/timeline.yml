@@ -1,26 +1,24 @@
-- title: Student, Harvard CS
-  from: 2013
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Senior Data Analyst, M.S. Hall and Associates
+  from: 2023
+  to: Present
+  description: Led government audit support and healthcare reimbursement analytics using Python, SQL, Tableau, and Excel. Built scalable SQL reporting pipelines and automated reimbursement workpapers, helping claim over $4M in reimbursable amounts across 22 hospitals and 3 healthcare organizations.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Business Analyst Intern, Esurgi Biotech
+  from: 2022
+  to: 2022
+  description: Developed a 6-year product roadmap and built investor analytics assets including a standardized investor database, market analysis outputs, and Power BI dashboards for fundraising and growth planning.
 
-- title: AMAZING STUFF
-  from: 2019
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Business Engagement Analyst Intern, Deloitte China
+  from: 2021
+  to: 2021
+  description: Supported project operations across 25 offices through Jupiter and ServiceNow, gathered requirements for cloud-based reimbursement system improvements, and coordinated business-technical alignment during testing and rollout.
+
+- title: M.S. Information Management, UIUC
+  from: 2021
+  to: 2022
+  description: University of Illinois Urbana-Champaign.
+
+- title: B.S. Business (MIS; Finance & Risk Management Insurance), UMN
+  from: 2017
+  to: 2021
+  description: University of Minnesota Twin Cities.

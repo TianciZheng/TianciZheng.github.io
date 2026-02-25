@@ -5,8 +5,8 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : Tianci Zheng
-description         : Welcome
+title               : Tianci (Dylan) Zheng
+description         : Senior Data Analyst | Healthcare Reimbursement Analytics
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          : TianciZheng               # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -33,17 +33,17 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Tianci Zheng
+  name              : Tianci (Dylan) Zheng
   image             : https://github.com/TianciZheng/TianciZheng.github.io/blob/main/viewbeach.jpg?raw=true
 # behance           : your_username
 # dribbble          : your_username
-  email             : tianci2@illinois.edu
+  email             : dylan.zheng.tianci@gmail.com
 # facebook          : your_username
   github            : TianciZheng # JPN
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-# linkedin          : your_username
+  linkedin          : tiancizheng
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
