@@ -16,6 +16,10 @@
 
         {%- assign exclude = false -%}
 
+        {%- if html_page.published == false or html_page.nav_exclude == true -%}
+          {%- assign exclude = true -%}
+        {%- endif -%}
+
         {%- for exclude_path in site.nav_exclude -%}
 
           {%- if exclude_path == html_page.path -%}
